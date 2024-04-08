@@ -1,0 +1,25 @@
+file structure
+
+components
+
+props
+proptypes
+defaultProps
+isRequired
+
+Hook
+State
+Events handling
+
+&& syntax
+
+react router
+link and to usage to avoid reloading
+
+Hosting on Github Pages
+Deploying edits
+Used this tut:
+https://youtu.be/7wzuievFjrk
+
+basename
+https://youtu.be/hrwl5jVcfXc
